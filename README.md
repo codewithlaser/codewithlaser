@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philipp!</h1>
-<h3 align="center">A creative frontend developer from Germany!</h3>
+<h3 align="center">A creative developer from Germany!</h3>
 
 - 🌱 I’m currently learning **React & PHP**
 
